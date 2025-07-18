@@ -6,7 +6,7 @@ A curated list of resources related to Murf API
 
 * [Murf Coding Challenge](#murf-coding-challenge)
 * [Murf Coding Challenge 2](#murf-coding-challenge-2)
-* [Built by Murf AI & Collaborators](#built-by-murfai--collaborators)
+* [Built by Murf AI & Collaborators](#built-by-murf-ai--collaborators)
 
 <!-- tocstop -->
 ## Murf Coding Challenge
