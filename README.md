@@ -46,5 +46,9 @@ A curated list of resources related to Murf API
 * [Video Story Generator](https://github.com/svpino/video-generation) - Generate video stories using Python, Open AI and Murf
 * [Blog to Podcast](https://github.com/chaharnishant11/blog-to-podcast) - Transform any web page into a multilingual podcast
 
+## Conversational AI/Voice Agents
+* [Simple Sarcastic Conversational AI](https://github.com/Joshwen7947/Murf-Live-Session) - A simple conversational AI using Open AI & Murf
+* [EchoCare](https://github.com/gobardan1707/ECHOCARE) - An intelligent, voice-first health assistant designed to improve medication adherence and patient well-being
+
 * ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
