@@ -7,11 +7,25 @@ A curated list of resources related to Murf API
 * [Murf Coding Challenge](#murf-coding-challenge)
 * [Murf Coding Challenge 2](#murf-coding-challenge-2)
 * [Murf Coding Challenge 3](#murf-coding-challenge-3)
+* [Murf Coding Challenge 4](#murf-coding-challenge-4)
 * [Built by Murf AI & Collaborators](#built-by-murf-ai--collaborators)
 
 <!-- tocstop -->
+## Murf Coding Challenge 4
+* [Mona](https://github.com/Ankit-Kumar20/murf-manim-hack) - A web platform that transforms complex concepts into engaging, easy-to-understand explanations using AI-powered narration, smart visuals, and interactive articles.
+* [Polaris](https://github.com/AayushBeura/Polaris) - A RAG-powered meeting assistant bot, integrating Recall AI, Cerebras Inference API, and Murf TTS API.
+* [VoiceGym](https://github.com/Balasubramanyam-Chilukala/VoiceGym) -  An AI-powered fitness coaching system that transforms any webcam into an intelligent personal trainer.
+* [VoxCode](https://github.com/tanmay958/VoxCode) - A VSCode extension that transforms coding from a silent, text-based activity into an interactive voice conversation.
+* [AI Voice Companions for Discord](https://github.com/frhanjav/discord-ai-call) - A Discord bot that brings multiple AI personalities into voice channels, creating natural group conversations where each AI has its own distinct voice and personality.
+* [EchoWorks](https://github.com/devansh-mankar/EchoWorks) - A productivity and accessibility tool that transforms raw content — emails, documents, Wikipedia articles, live speech—into polished, multilingual audio and video in minutes.
+* [No-Code Chatbot Builder](https://github.com/narasimha07-here/scrapmind) - A comprehensive Streamlit application that lets anyone create intelligent, document-aware chatbots without writing a single line of code.
+* [Murphy](https://github.com/Samarth-T17/murfy) - An AI-powered podcast generation application designed to simplify and automate podcast creation. 
+* [The Circle](https://github.com/trucodd/the-circle) - A real-time chat app where people from anywhere in the world can connect.
+* [AI News Briefing Generator](https://github.com/WizOctavius/news-brief) - A web application that transforms a user's favorite RSS feeds into a polished, on-demand, podcast-style audio briefing.
+* [Hand Sign Recognition](https://github.com/Shukla0708/Flag_bit) - A full-stack web application designed for the real-time transcription and translation of American Sign Language.
+
 ## Murf Coding Challenge 3
-* [ChiraagAI](https://github.com/AayushBeura/ChiraagAI-Dev) - an intelligent desktop assistant built with Python and Tkinter, integrating Murf TTS API and Gemini API.
+* [ChiraagAI](https://github.com/AayushBeura/ChiraagAI-Dev) - An intelligent desktop assistant built with Python and Tkinter, integrating Murf TTS API and Gemini API.
 * [Vision](https://github.com/AshutoshShekharProjects/Vision--Screen-Read-and-Interpretation-AI-Agent-) - An AI-powered screen reader built as a desktop application. Its primary goal is to help users understand the content on their screen in a more intuitive way than traditional screen readers.
 * [GupShup Buddy](https://github.com/manasdhir/Voice_Bot) - A conversational agent which has multiple preset personas and can also adapt to custom personas set by the user.
 * [Kalp AI](https://github.com/s-mahali/Kulp_AI) - A discord bot that helps you prep for your interview in real time.
