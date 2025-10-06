@@ -9,6 +9,18 @@ A curated list of resources related to Murf API
 * [Built by Murf AI & Collaborators](#built-by-murf-ai--collaborators)
 
 <!-- tocstop -->
+## Murf Coding Challenge 3
+* [ChiraagAI](https://github.com/AayushBeura/ChiraagAI-Dev) - an intelligent desktop assistant built with Python and Tkinter, integrating Murf TTS API and Gemini API.
+* [Vision](https://github.com/AshutoshShekharProjects/Vision--Screen-Read-and-Interpretation-AI-Agent-) - An AI-powered screen reader built as a desktop application. Its primary goal is to help users understand the content on their screen in a more intuitive way than traditional screen readers.
+* [GupShup Buddy](https://github.com/manasdhir/Voice_Bot) - A conversational agent which has multiple preset personas and can also adapt to custom personas set by the user.
+* [Kalp AI](https://github.com/s-mahali/Kulp_AI) - A discord bot that helps you prep for your interview in real time.
+* [StoryWeave](https://github.com/VivekTiwari-1/Game_MurfAI.git) - An AI-powered game where you and your friends can create your own adventures.
+* [LangQuest](https://github.com/LangQuest-App) -  An AI-based reinforced language learning desktop application.
+* [Vocal Mail](https://github.com/Heeral03/Vocal-Mail) -  A productivity-first desktop application that helps you manage your emails while you focus on what truly matters.
+* [Go To Buddy](https://github.com/JITESH-KUMAR05/MurfAI) -  A voice-based bilingual AI assistant built to solve a productivity problem — constantly switching between apps, searching for content, and managing everyday tasks.
+* [Project Chimera](https://github.com/yu-14/Project-Chimera) -  A desktop application that transforms the Murf API into an intelligent, AI-powered interactive storyteller.
+* [Satorē](https://github.com/aditya2125csit1033/murf-ai-challenge-satore.git) -  A desktop application designed to guide young individuals seeking clarity and direction in their lives through AI-powered virtual mentors. 
+
 ## Murf Coding Challenge 2
 * [EchoCare](https://github.com/gobardan1707/ECHOCARE) - An intelligent, voice-first health assistant designed to improve medication adherence and patient well-being
 * [The Campfire Chronicles](https://github.com/AayushBeura/the-campfire-chronicles-dev) - A Unity game that uses AI for dynamic storytelling
@@ -38,7 +50,6 @@ A curated list of resources related to Murf API
 * [Vocaverse](https://github.com/prasanna-lakshmi18/Vocaverse_pro) - A Multilingual story narrator that converts text-based stories into natural, human-like speech
 * [Audora](https://github.com/sobiya-22/audora) - A web application that transforms PDFs into easy-to-understand audio explanations
 * [Tweet to Audio](https://github.com/TejasNangru/tweet-to-audio) -  A web application that transforms any tweet into natural-sounding speech in multiple languages
-
 
 
 ## Built by Murf AI & Collaborators
